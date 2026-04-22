@@ -1,0 +1,35 @@
+# Dependencies
+node_modules/
+*/node_modules/
+
+# Environment files
+.env
+backend/.env
+!backend/.env.example
+
+# Build outputs
+frontend/dist/
+frontend/build/
+
+# Blockchain artifacts
+blockchain/artifacts/
+blockchain/cache/
+blockchain/deployments/
+
+# Uploads
+backend/uploads/
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/settings.json
+.idea/
+
+# TypeScript
+*.tsbuildinfo
