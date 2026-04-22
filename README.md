@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PropToken — Real Estate Asset Tokenization Platform
 
 A full-stack platform for fractional real estate ownership using blockchain technology.
@@ -174,3 +175,7 @@ Open http://localhost:3000
 - Serve frontend build from backend or a CDN
 - Use MongoDB Atlas for database
 - Use Infura/Alchemy for Ethereum RPC
+=======
+# Real_Estate_Tokenization_Project
+Real Estate Asset Tokenization Using BlockChain
+>>>>>>> a04c16b62d9bea45d9523ffa17d9d9875c140168
